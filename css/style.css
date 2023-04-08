@@ -55,11 +55,13 @@ body {
   left: 0;
   background: url(../images/prev.svg) 0 0 / 100% no-repeat;
   border: none;
+  cursor: pointer;
 }
 .slick-next {
   right: 0;
   background: url(../images/next.svg) 0 0 / 100% no-repeat;
   border: none;
+  cursor: pointer;
 }
 .slider .slick-dots {
   display: flex;
